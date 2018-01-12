@@ -1,0 +1,7 @@
+{{#each .}}
+<div class="barnacle">
+	{{#if _isComplete}}
+	<div class="icon {{#if _isCorrect}}icon-tick{{else}}icon-cross{{/if}}"></div>
+	{{/if}}
+</div>
+{{/each}}

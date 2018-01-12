@@ -1,0 +1,14 @@
+{
+	"name": "adapt-barnacles",
+	"version": "0.1.0",
+	"framework": ">=2",
+	"displayName": "Barnacles",
+	"extension": "barnacles",
+	"description": "An extension to show question completion in an assessment via a fixed bar",
+	"main": "/js/adapt-barnacles.js",
+	"keywords": [
+		"adapt-plugin",
+		"adapt-extension"
+	],
+	"license": "GPL-3.0"
+}
